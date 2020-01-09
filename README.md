@@ -1,1 +1,1 @@
-(Guess the Color!)[aqib21.github.io/colorgame]
+[Guess the Color] (https://aqib21.github.io/colorgame)
